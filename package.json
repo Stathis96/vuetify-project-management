@@ -1,6 +1,7 @@
 {
   "name": "vuetify-project-management",
   "version": "0.1.0",
+  "description": "A dummy project, exploring vuetify while creating a project management panel",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -9,6 +10,8 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "firebase": "^9.1.1",
+    "moment": "^2.29.1",
     "vue": "^2.6.11",
     "vue-router": "^3.2.0",
     "vuetify": "^2.4.0"
